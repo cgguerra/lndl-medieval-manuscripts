@@ -18,14 +18,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: LNDL Medieval Manuscripts
+title: Researching Medieval Manuscripts at the Loyola Notre Dame Library
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Collection of images and illuminations
+tagline: Images, Illustrations, & Illuminations from the LNDL Archives
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "by Christina Guerra '23"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: medieval; manuscript
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: cgguerra
 

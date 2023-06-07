@@ -3,5 +3,6 @@ date,Date,,,Date
 subject,,true
 location,,true
 identifier,,,true,Identifier
-type_of_manuscript,, true,,
+type_of_manuscript,, true
 origin,, true,,
+section_of_book,, true
