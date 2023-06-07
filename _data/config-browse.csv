@@ -3,5 +3,5 @@ date,Date,,,Date
 subject,,true
 location,,true
 identifier,,,true,Identifier
-type_of_manuscript,, true
-origin,, true
+type_of_manuscript,, true,,
+origin,, true,,
