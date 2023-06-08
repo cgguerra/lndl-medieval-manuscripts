@@ -8,9 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="lndl024" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
 
 ## About LNDL Medieval Manuscripts
 
@@ -20,7 +19,7 @@ This collection showcases manuscripts from the Loyola Notre Dame Library archive
 
 Read more about LNDL Archives [at their Archival Collections and Rare Books page](https://www.lndl.org/archives-special-collections/collections)
 
-{% include feature/image.html objectid="lndl029" %}
+{% include feature/image.html objectid="lndl014" %}
 
 ### About the Author
 
