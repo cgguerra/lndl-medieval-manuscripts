@@ -14,11 +14,13 @@ credits: true
 
 ## About LNDL Medieval Manuscripts
 
+### Featured in the Collection
+
 This collection showcases manuscripts from the Loyola Notre Dame Library archives. LNDL Medieval Manuscripts includes images of historiated initials, illuminated initials, and full page illustrations from the three medieval manuscripts featured in the library collection. The collection includes a 14th century Italian Book of Hours, 15th century French Book of Hours, and 16th century Italian quarto from a large Bible featuring Corinthians I and II and part of Galatians. All three manuscripts were donated to Notre Dame by Father John Fletcher in the 1970s. 
 
 Read more about LNDL Archives [at their Archival Collections and Rare Books page](https://www.lndl.org/archives-special-collections/collections)
 
-{% include feature/image.html objectid="lndl003" %}
+{% include feature/image.html objectid="lndl029" %}
 
 ### About the Author
 
