@@ -1,4 +1,13 @@
 object_location,image_small,image_thumb
+/objects/000xillumd2_fr.png,/objects/small/000xillumd2_fr_sm.jpg,/objects/thumbs/000xillumd2_fr_th.jpg
+/objects/000xillumd3_fr.png,/objects/small/000xillumd3_fr_sm.jpg,/objects/thumbs/000xillumd3_fr_th.jpg
+/objects/000xillumd4_fr.png,/objects/small/000xillumd4_fr_sm.jpg,/objects/thumbs/000xillumd4_fr_th.jpg
+/objects/000xillumd5_fr.png,/objects/small/000xillumd5_fr_sm.jpg,/objects/thumbs/000xillumd5_fr_th.jpg
+/objects/000xillumd6_fr.png,/objects/small/000xillumd6_fr_sm.jpg,/objects/thumbs/000xillumd6_fr_th.jpg
+/objects/000xillumd_fr.png,/objects/small/000xillumd_fr_sm.jpg,/objects/thumbs/000xillumd_fr_th.jpg
+/objects/000xillumletter2_fr.png,/objects/small/000xillumletter2_fr_sm.jpg,/objects/thumbs/000xillumletter2_fr_th.jpg
+/objects/000xillumletter_fr.png,/objects/small/000xillumletter_fr_sm.jpg,/objects/thumbs/000xillumletter_fr_th.jpg
+/objects/000xillumo_fr.png,/objects/small/000xillumo_fr_sm.jpg,/objects/thumbs/000xillumo_fr_th.jpg
 /objects/01jancal_ital.png,/objects/small/01jancal_ital_sm.jpg,/objects/thumbs/01jancal_ital_th.jpg
 /objects/02jancal2_ital.png,/objects/small/02jancal2_ital_sm.jpg,/objects/thumbs/02jancal2_ital_th.jpg
 /objects/03febcal_ital.png,/objects/small/03febcal_ital_sm.jpg,/objects/thumbs/03febcal_ital_th.jpg
@@ -86,3 +95,8 @@ object_location,image_small,image_thumb
 /objects/xtrinity_fr.png,/objects/small/xtrinity_fr_sm.jpg,/objects/thumbs/xtrinity_fr_th.jpg
 /objects/xvirgin_praying_ital.png,/objects/small/xvirgin_praying_ital_sm.jpg,/objects/thumbs/xvirgin_praying_ital_th.jpg
 /objects/xvirginpg_fr.png,/objects/small/xvirginpg_fr_sm.jpg,/objects/thumbs/xvirginpg_fr_th.jpg
+/objects/z2pg_annunciation.jpg,/objects/small/z2pg_annunciation_sm.jpg,/objects/thumbs/z2pg_annunciation_th.jpg
+/objects/z2pg_crucifixion.jpg,/objects/small/z2pg_crucifixion_sm.jpg,/objects/thumbs/z2pg_crucifixion_th.jpg
+/objects/z2pg_david.jpg,/objects/small/z2pg_david_sm.jpg,/objects/thumbs/z2pg_david_th.jpg
+/objects/z2pg_simeon.jpg,/objects/small/z2pg_simeon_sm.jpg,/objects/thumbs/z2pg_simeon_th.jpg
+/objects/z2pspread_dead.jpg,/objects/small/z2pspread_dead_sm.jpg,/objects/thumbs/z2pspread_dead_th.jpg
